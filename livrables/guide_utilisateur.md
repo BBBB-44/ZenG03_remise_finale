@@ -1,6 +1,6 @@
 # ZenGo3 - Dév. App. Avancé | 420-D60-CH | Gr. 01
 
-<img width="100%" alt="ZenGo" src="https://github.com/user-attachments/assets/4b130b8a-658e-4aa5-ac39-46083e41a7a3" />
+<img width="100%" alt="ZenGo" src="https://github.com/user-attachments/assets/9130bb60-f3d9-4bf7-872d-439315fc52b1" />
 
 
 # LIVRABLE 4 : GUIDE UTILISATEUR
@@ -241,7 +241,8 @@ Le système permet également de détecter :
 
 ## 4.1 Page d’accueil
 
-<img width="100%" alt="Capture d’écran 2026-05-26 090226" src="https://github.com/user-attachments/assets/8e7d5f85-7955-48c7-ad67-9bf15d18d511" />
+<img width="100%" alt="598198186-8e7d5f85-7955-48c7-ad67-9bf15d18d511" src="https://github.com/user-attachments/assets/9fc822b2-ea45-4b03-b35e-a9dc6074809e" />
+
 
 La page d’accueil constitue le point d’entrée principal de l’application.
 
@@ -270,7 +271,8 @@ Ces réglages permettent de personnaliser l’expérience de jeu selon les préf
 
 # 5. PAGE DU JEU
 
-<img width="100%" alt="Capture d’écran 2026-05-26 090557" src="https://github.com/user-attachments/assets/968b5870-b20d-484d-9ad0-447ad35a3875" />
+<img width="100%" alt="598198806-968b5870-b20d-484d-9ad0-447ad35a3875" src="https://github.com/user-attachments/assets/1d9bea19-f597-453c-93bf-c95c23418d93" />
+
 
 ## 5.1 Boutons d’actions
 
@@ -290,7 +292,7 @@ L’autre joueur est alors déclaré gagnant automatiquement.
 
 Notes : La validation du joueur est néscessaire, afin d'éviter un abandon accidentel.
 
-<img width="100%" alt="Capture d’écran 2026-05-26 090629" src="https://github.com/user-attachments/assets/57f2b859-86aa-4553-acb3-3e3b5dd10517" />
+<img width="100%" alt="598199629-57f2b859-86aa-4553-acb3-3e3b5dd10517" src="https://github.com/user-attachments/assets/0ef07e22-c495-40d2-9e04-36ec256cd520" />
 
 
 ---
@@ -327,7 +329,7 @@ Le plateau réagit directement aux actions des joueurs via les clics souris.
 
 # 6. PAGE DE FIN DE PARTIE
 
-<img width="100%" alt="Capture d’écran 2026-05-26 090705" src="https://github.com/user-attachments/assets/4d83c4a6-32b1-4daa-9689-faf8b1cadc04" />
+<img width="100%" alt="598199771-4d83c4a6-32b1-4daa-9689-faf8b1cadc04" src="https://github.com/user-attachments/assets/7a4ee212-41e3-4e7a-b71d-68127d8af428" />
 
 
 ## 6.1 Affichage des informations de la partie
