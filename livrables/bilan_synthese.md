@@ -1,6 +1,6 @@
 # ZenGo3 - Dév. App. Avancé | 420-D60-CH | Gr. 01
 
-<img width="100%" alt="ZenGo" src="https://github.com/user-attachments/assets/974b4edb-f927-404a-bf9a-c9dfd39d732f" />
+<img width="100%" alt="ZenGo" src="https://github.com/user-attachments/assets/be66e586-e67d-4882-94a6-caad79d6a694" />
 
 
 # LIVRABLE 5 : BILAN
